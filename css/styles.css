@@ -1,0 +1,22 @@
+.img-custom {
+    height: 200px;
+    width: 200px;
+}
+
+.card-header-custom {
+    padding-top: 5px;
+    text-align: center;
+    height: 80px;
+}
+
+.card-footer-custom {
+    padding: 5px 10px;
+    height: 100px;
+}
+
+.card-body-custom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
